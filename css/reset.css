@@ -46,7 +46,7 @@
   }
   
   body::after {
-      content: '';
+    content: '';
     position: absolute;
     bottom: -100px;
     right: -100px;
