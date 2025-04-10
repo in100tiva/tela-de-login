@@ -186,6 +186,10 @@ button:active {
     transform: translateY(-5px); 
 }
 
+.social-btn a{
+    text-decoration: none;
+}
+
 .singup-link {
     text-align: center;
     margin-top: 1.5rem;
