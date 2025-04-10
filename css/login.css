@@ -169,6 +169,7 @@ button:active {
 }
 
 .social-btn {
+    text-decoration: none;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -184,10 +185,6 @@ button:active {
 .social-btn:hover {
     background-color: rgba(255, 255, 255, 0.05);
     transform: translateY(-5px); 
-}
-
-a {
-    text-decoration: none;
 }
 
 .singup-link {
